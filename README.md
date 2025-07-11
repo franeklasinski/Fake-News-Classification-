@@ -23,6 +23,7 @@ Ten projekt implementuje kompleksowy system detekcji fake news, który:
 ## Dataset
 
 Kaggle: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/code?datasetId=2093157&sortBy=voteCount 
+
 Projekt wykorzystuje **WELFake Dataset** zawierający:
 - **Łączna liczba artykułów**: 72 134
 - **Fake News**: ~50% datasetu
